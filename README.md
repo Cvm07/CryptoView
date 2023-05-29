@@ -7,4 +7,4 @@ Build with ReactJS, MaterialUI, ChatJS.
 
 
 
-Working Model - https://thecryptoviewer.netlify.app/  
+Working Site - https://thecryptoviewer.netlify.app/  
