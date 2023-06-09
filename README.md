@@ -3,7 +3,7 @@ A React.js based web application that displays information about the Crypto Curr
 
 
 
-Build with ReactJS, MaterialUI, ChatJS.
+Build with ReactJS, MaterialUI, ChartJS.
 
 
 
